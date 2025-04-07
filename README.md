@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-## NAME: N.NAVYA SREE
-## REG.No:212223040138
+## NAME: HARISH.D
+## REG.No:212224220034
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
